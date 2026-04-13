@@ -18,6 +18,6 @@
 - 🐙 GitHub: https://github.com/Mehtaab11
 - 💼 LinkedIn: https://www.linkedin.com/in/mehtaabaalam/
 - 🐦 Twitter/X: https://x.com/TheMehtaab
-- 📸 Instagram : https://instrgram.com/mehtaab.11
+- 📸 Instagram : https://instagram.com/mehtaab.11
 ---
 
