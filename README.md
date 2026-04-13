@@ -11,10 +11,6 @@
 - 🎯 Preparing for **interviews + open source + GSoC**
 
 
-## 📊 GitHub Stats
-
-![Mehtaab's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mehtaab11&show_icons=true&theme=radical)
-
 ---
 
 ## 🌐 Connect With Me
@@ -25,6 +21,3 @@
 - 📸 Instagram : https://instrgram.com/mehtaab.11
 ---
 
-## ⚡ Fun Fact
-
-> I don’t just build apps — I try to understand how apps scale to millions 🚀
