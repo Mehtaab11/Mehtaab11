@@ -1,10 +1,6 @@
 # 👋 Hey, I'm Mehtaab
 
-💻 Full Stack Developer | MERN + Next.js + TypeScript  
-🚀 Building real-world scalable apps & learning system design  
-🎯 Goal: Land a dev job + contribute to impactful projects  
-
----
+💻 Full Stack Developer | MERN + Next.js + TypeScript    
 
 ## 🧠 About Me
 
@@ -14,73 +10,6 @@
 - 🧩 Strong focus on **clean code, performance & architecture**
 - 🎯 Preparing for **interviews + open source + GSoC**
 
----
-
-## 🛠️ Tech Stack
-
-### 💻 Frontend
-- React.js
-- Next.js
-- TypeScript
-- Tailwind CSS
-- Zustand
-
-### ⚙️ Backend
-- Node.js
-- Express.js
-- Prisma
-- PostgreSQL
-- MongoDB
-
-### 🔌 Real-time & Tools
-- Socket.io
-- Firebase
-- JWT Auth
-- Git & GitHub
-
----
-
-## 🚀 Projects
-
-### 💬 Chatty — Real-time Chat App
-- ⚡ Built using MERN + Socket.io
-- 🔐 JWT Authentication with cookies
-- 🟢 Online user status tracking
-- 🎨 32 themes using DaisyUI
-- ⚡ Real-time messaging
-
-🔗 Live: https://chatty-real-time-chat-app-n4xg.onrender.com/
-
----
-
-### 📈 AI Stock Trading App
-- 🤖 AI-powered stock insights
-- 📊 Real-time price tracking
-- 🔔 Smart alerts system
-- 🧠 Company insights dashboard
-
-🔗 GitHub: https://github.com/Mehtaab11/trading  
-🔗 Live: https://trading-eosin.vercel.app/
-
----
-
-## 📚 Currently Learning
-
-- ☁️ AWS (Project-based)
-- 🧠 System Design (Scalable Apps)
-- 🔄 Distributed Systems
-- 📡 Advanced WebSockets & Real-time systems
-
----
-
-## 🎯 2025 Goals
-
-- ✅ Get a Full Stack Developer job
-- 🔓 Contribute to Open Source
-- 🌍 Participate in GSoC
-- 🧠 Reach strong DSA + System Design level
-
----
 
 ## 📊 GitHub Stats
 
@@ -93,7 +22,7 @@
 - 🐙 GitHub: https://github.com/Mehtaab11
 - 💼 LinkedIn: https://www.linkedin.com/in/mehtaabaalam/
 - 🐦 Twitter/X: https://x.com/TheMehtaab
-
+- 📸 Instagram : https://instrgram.com/mehtaab.11
 ---
 
 ## ⚡ Fun Fact
